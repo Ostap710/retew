@@ -1,0 +1,102 @@
+<html>
+<head>
+<title>тема17</title>
+<style>
+
+.menu{
+list-style:none;
+padding-left:0;
+margin-left:0;
+margin-top:25px;
+}
+.menu li{
+display:inline-block;
+
+}
+a{
+font-family:Consolas;
+padding:10px 20px;
+background-color:lightblue;
+color:white;
+border:1px solid black;
+
+}
+.menu2{
+display:none;
+position:absolute;	
+top:55px;
+left:582px;	
+margin:0;
+padding:0;
+}
+.menu2  li{
+display:block;
+width:170px;
+height:40px;
+background-color:lightblue;
+color:yellow;
+border:1px solid black;
+text-align:center;
+}
+
+.mainli:hover .menu2{ 
+display:block;	
+
+
+border:1px solid black;
+}
+.menu2 li:hover{
+background-color:black;
+color:yellow;	
+}
+body{
+background-color:33FFFF;	
+}
+ 
+ .tr{
+float:right
+ }
+.gr{ 
+font-size:33px;
+font-family:Courier New;
+}
+
+
+
+</style>
+</head>
+<body>
+<ul class="menu" align="center">
+<li class="mainli"><a href="">Каталог товарів</a>
+<ul class="menu2">
+<li>Усі товари</li>
+<li>Електроніка</li>
+<li>Відеоігри</li>
+<li>Спорт товари</li>
+<li>Одяг</li>
+<li>Популярне</li>
+</ul>
+</li>
+<li><a href="">Новинки</a></li>
+<li><a href="">Бренди</a></li>
+<li><a href="">Блог магазину</a></li>
+<li><a href="">Акції</a></li>
+<li><a href="">Профіль</a></li>
+</ul>
+  
+  <img  src="images/photo.jpg" class="tr">
+<p class="gr">Яскраві насичені кольори
+Відчуйте всю виразність сцен, які тепер оживуть в суперформаті 4K UHD. Виходячи далеко за рамки звичного FHD, Crystal TV зробить будь-який контент ще більш барвистим, контрастним і неймовірно реалістичним. Посилить драматичність сюжетів технологія HDR. Автоматично налаштовуючи контраст для світлих і затемнених сцен, вона дозволить розглянути навіть те, що раніше було заховано в тіні або в глибині яскравого світла. Магічна атмосфера ночі і приголомшлива велич панорамних сцен тепер придбають нове бачення на екрані Crystal TV.
+
+Crystal Processor 4K
+Технологічно досконалий Crystal TV розкриє всі переваги роздільної здатності UHD. Розроблений на базі потужного процесора Crystal 4K, він задіє кращі алгоритми обробки кольору і HDR для створення зображення кінематографічної якості. Тепер він оптимізує будь-який сигнал, зробивши фільми і ТВ-шоу однаково барвистими і неймовірно деталізованими. Потужний інтелект робить Crystal TV ідеальним для геймінгу. Тепер він прибере всі ривки і спотворення динамічних сцен для наближення ваших перемог в найзапекліших місіях.
+
+Безрамковий естетика Crystal TV
+Неймовірно тонкий і елегантний Crystal TV стирає всі межі між простором і зображенням. Практично повністю позбавлений екранних рамок, він перенесе вас в саме серце драматичних сцен, створивши дивовижний ефект занурення. Доповнює преміальну естетику Crystal TV продумана система підключення. Тепер він зосередить всі дроти всередині однієї підставки, зберігши гармонійний стиль сучасного інтер'єру.</p>
+
+
+
+
+
+</body>
+</html>
